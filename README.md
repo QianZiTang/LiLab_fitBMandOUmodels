@@ -1,5 +1,5 @@
 # LiLab_fitBMandOUmodels
-##1. System requirements
+## 1. System requirements
 
 (1) PBS (Protable Batch System)
 (2) centOS 7
